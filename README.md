@@ -4,7 +4,9 @@ The third project from Dicoding online course: [Menjadi Android Developer Expert
 
 ## Penampakan
 
-
+![Screenshot](https://github.com/ariastro/Dicoding-MyDictionary/blob/master/Screenshot/SS%201.png | width=100)
+![Screenshot](https://github.com/ariastro/Dicoding-MyDictionary/blob/master/Screenshot/SS%202.png | width=100)
+![Screenshot](https://github.com/ariastro/Dicoding-MyDictionary/blob/master/Screenshot/SS%203.png | width=100)
 
 ## Submission 3
 
