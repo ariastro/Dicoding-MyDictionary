@@ -81,7 +81,7 @@ public class KamusAdapter extends RecyclerView.Adapter<KamusAdapter.KamusHolder>
                     if (pos != RecyclerView.NO_POSITION) {
                         Intent intent = new Intent(context, DetailActivity.class);
                         intent.putExtra("extra_kata", mData.get(pos).getKata());
-                        intent.putExtra("extra_translate", mData.get(pos).getKata());
+                        intent.putExtra("extra_translate", mData.get(pos).getTranslate());
                         context.startActivity(intent);
                     }
                 }
